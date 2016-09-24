@@ -1,0 +1,2 @@
+defmodule ExEiffel do
+end
